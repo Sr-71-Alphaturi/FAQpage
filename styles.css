@@ -26,7 +26,7 @@
     height: 100%;
 }
 /* Used to style the left-side box in the div with class "box"*/
-#search_div{
+#searchDiv{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,6 +103,7 @@
     text-align: center;
     outline: none;
     border-style: none;
+    text-decoration: none;
 }
 
 .newColl:hover{
